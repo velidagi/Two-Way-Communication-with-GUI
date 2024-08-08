@@ -1,0 +1,4 @@
+2024-08-09 02:06:19 [192.168.1.2] Me: Hey there, server! Ready to chat?
+2024-08-09 02:07:04 [192.168.1.2] Server: Hi, client! Always ready. What is happening?
+2024-08-09 02:07:28 [192.168.1.2] Me: Just sending over a little test message. Don't worry, it's friendly!
+2024-08-09 02:08:01 [192.168.1.2] Server: Test message received. All systems go!
