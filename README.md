@@ -13,6 +13,8 @@ A key feature of this project is its use of **multithreading** to handle messagi
 - **Multithreading**: Ensures that both sending and receiving messages can happen concurrently without blocking.
 - **Logging**: Messages are logged to files for later review.
 
+![image](https://github.com/user-attachments/assets/abc4df89-bc71-4233-89cd-0fe3c7c066c4)
+
 ## Usage
 
 1. **First Start the Server**
